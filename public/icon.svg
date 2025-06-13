@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main container box -->
+    <rect x="56" y="56" width="400" height="400" rx="8" stroke="#4A5568" stroke-width="32" fill="none"/>
+    <!-- Header box -->
+    <rect x="96" y="96" width="320" height="64" rx="4" fill="#4A5568"/>
+    <!-- Left sidebar -->
+    <rect x="96" y="184" width="96" height="224" rx="4" fill="#718096"/>
+    <!-- Main content area boxes -->
+    <rect x="216" y="184" width="200" height="64" rx="4" fill="#A0AEC0"/>
+    <rect x="216" y="264" width="200" height="64" rx="4" fill="#A0AEC0"/>
+    <rect x="216" y="344" width="200" height="64" rx="4" fill="#A0AEC0"/>
+</svg>
