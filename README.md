@@ -32,17 +32,20 @@ A web-based tool for capturing and analyzing website structures. This tool helps
 ### Installation
 
 1. Clone the repository:
+
 ```sh
 git clone <repository-url>
 cd structure-web-capture-tool
 ```
 
 2. Install dependencies:
+
 ```sh
 npm install
 ```
 
 3. Start the development server:
+
 ```sh
 npm run dev
 ```
