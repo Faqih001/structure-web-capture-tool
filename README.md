@@ -2,6 +2,8 @@
 
 A web-based tool for capturing and analyzing website structures. This tool helps developers and designers understand website layouts and hierarchies through visual and code-based analysis.
 
+**Developer**: FAKII MOHAMMED
+
 ## Features
 
 - Website structure analysis and visualization
